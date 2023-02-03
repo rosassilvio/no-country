@@ -1,0 +1,9 @@
+com\nocountry\controllers\UsuarioController.class
+com\nocountry\servicesImpl\UsuarioServiceImpl.class
+com\nocountry\NoCountryApplication.class
+com\nocountry\models\Rol.class
+com\nocountry\models\Usuario.class
+com\nocountry\models\UsuarioRol.class
+com\nocountry\repository\UsuarioRepository.class
+com\nocountry\services\UsuarioService.class
+com\nocountry\repository\RolRepository.class
